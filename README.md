@@ -50,6 +50,10 @@ To ensure accurate and consistent gesture detection:
 
 ---
 
+## Press Q or simply close the window to exit the Webcam
+
+---
+
 ## 📦 Installation
 
  **Clone the repository**
