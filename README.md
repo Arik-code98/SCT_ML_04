@@ -47,3 +47,12 @@ To ensure accurate and consistent gesture detection:
 - 📏 Keep your hand at a consistent distance from the camera (~30 cm recommended).
 
 - 🖐️ Ensure your gestures match the training data (frontal hand view, fingers clear).
+
+---
+
+## 📦 Installation
+
+ **Clone the repository**
+   ```bash
+   git clone https://github.com/Arik-code98/SCT_ML_04.git
+   cd SCT_ML_04
